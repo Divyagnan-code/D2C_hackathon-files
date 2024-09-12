@@ -1,2 +1,2 @@
-This repository contains the necessary files for setting a full stack website and interating a chat bot on to it. Chubby is a chat bot that can manage user's order, track orders and handle returns.
+This repository contains the necessary files for setting a full stack website and integrating a chat bot on to it. Chubby is a chat bot that can manage user's order, track orders and handle returns.
 Chubby has a bright future the creators are working on chubby's friendly side using State of art transformers and giving chubby much more power than what he has currently...
