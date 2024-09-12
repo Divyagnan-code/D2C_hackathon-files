@@ -1,0 +1,28 @@
+[
+  {
+    "id": "780f0391-76a0-479f-a2ec-27f95b8c03cd",
+    "data": [
+      {
+        "text": "Excuse me, my services are limited, sorry for my helplessness.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0872392-2512-4a38-a295-4cca8770e94e",
+    "data": [
+      {
+        "text": "Sorry, I cannot process that.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

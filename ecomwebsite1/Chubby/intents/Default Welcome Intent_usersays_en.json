@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5e79e28f-a578-4af6-8feb-89f9c4eb33cd",
+    "data": [
+      {
+        "text": "Hello, welcome, I can assist you through the process of ordering, order tracking and returns. [Please note that this bot is still under development]",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09bc24cd-0f72-42f1-bc9f-fd76176dd972",
+    "data": [
+      {
+        "text": "hi, how can I assist you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?, I am designed to assist you through ordering, tracking and returns. [Please note that this bot is still under development]",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

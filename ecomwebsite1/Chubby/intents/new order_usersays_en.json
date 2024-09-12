@@ -1,0 +1,145 @@
+[
+  {
+    "id": "56beba34-667b-4a8f-982c-915e5658c1b3",
+    "data": [
+      {
+        "text": "Help me place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "560ca341-d864-4e3b-9dba-5094aa9ff736",
+    "data": [
+      {
+        "text": "I need to order something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbef2f0d-f79c-48e0-a908-2af12657e434",
+    "data": [
+      {
+        "text": "Start a new order for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d44e89d4-3890-439a-8c72-edecf224c49d",
+    "data": [
+      {
+        "text": "Let\u0027s create a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17e2508f-0fc7-496c-9fd4-1d4bab350ebc",
+    "data": [
+      {
+        "text": "I want to make a new purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1864d927-1a7c-496d-9ef6-6acc138b2e07",
+    "data": [
+      {
+        "text": "Order something new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baa73ab6-b4f4-4708-98ec-33bcc6ca81e4",
+    "data": [
+      {
+        "text": "Can I start a new order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "148b5dc9-e61f-4ff8-8aed-9cce9d0a0ef9",
+    "data": [
+      {
+        "text": "I\u0027d like to place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1620b5a-6045-43a7-a7fe-5a9e78289b3a",
+    "data": [
+      {
+        "text": "I want to order something new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd29292c-0f87-48ae-a4f6-f969f9655a61",
+    "data": [
+      {
+        "text": "place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16976a86-de92-4658-9d56-8d02cb9eb49f",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
